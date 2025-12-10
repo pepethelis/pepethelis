@@ -12,11 +12,11 @@
 
 </div>
 
-<div align=center >
+<!-- <div align=center >
   <a href=http://github-readme-streak-stats.herokuapp.com/demo >
     <img width=300 height=118 src="https://github-readme-streak-stats.herokuapp.com/?user=pepethelis&background=0000&border=0000&stroke=aaa&ring=ffc89b&fire=f88469&currStreakLabel=f88469&currStreakNum=4a9e90&sideLabels=f88469&sideNums=4a9e90&dates=aaa" />
   </a>
-</div>
+</div> -->
 
 <!-- <div align=center >
   <a href=https://github.com/anuraghazra/github-readme-stats >
