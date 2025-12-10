@@ -1,7 +1,7 @@
-![#f88469](https://via.placeholder.com/16/f88469/000000?text=+)
-![#ffc89b](https://via.placeholder.com/16/ffc89b/000000?text=+)
-![#4a9e90](https://via.placeholder.com/16/4a9e90/000000?text=+)
-![#7cd6af](https://via.placeholder.com/16/7cd6af/000000?text=+)
+![#f88469](https://placehold.co/16x16/f88469/000000.png?text=*)
+![#ffc89b](https://placehold.co/16x16/ffc89b/000000?text=*)
+![#4a9e90](https://placehold.co/16x16/4a9e90/000000?text=*)
+![#7cd6af](https://placehold.co/16x16/7cd6af/000000?text=*)
 
 <div>
   <img align=left width=42 src=./catcat.gif />
@@ -18,11 +18,11 @@
   </a>
 </div>
 
-<div align=center >
+<!-- <div align=center >
   <a href=https://github.com/anuraghazra/github-readme-stats >
     <img width=420 height=142 src="https://github-readme-stats.vercel.app/api?username=pepethelis&rank_icon=percentile&bg_color=0000&text_color=aaa&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=666&border_radius=24" />
   </a>
-</div>
+</div> -->
 
 <div align="center">
   <img height=32 width=0 />
@@ -90,5 +90,5 @@
   <!-- > [!IMPORTANT] -->
   <!-- > -->
   
-  <div>Currently working on <a href="#">###</a></div>
+  <!-- <div>Currently working on <a href="#">###</a></div> -->
 </div>
